@@ -3,7 +3,7 @@
 - Desenvolvo para Front-End
 - 🌱Estou estudando HTML,CSS,JavaScript
 - 🚀sobre mim: sou um jovem desenvolvedor de 14 anos, natural do Rio Grande Do Sul, Brasil.
-- com o sonho de ser um developer web na area do Front-End,
+- com a meta  de ser um developer web na area do Front-End,
 - tenho cerca de 5 meses de estudos, com alguns projetos basicos na area, usando HTML e CSS.
 - sou aluno da instituição de ensino ( Rocketseat ).
 
