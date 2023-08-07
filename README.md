@@ -1,11 +1,10 @@
 ### Opa, me chamo Kalleb Pires..
 
 - Desenvolvo para Front-End
-- 🌱Estou estudando HTML,CSS,JavaScript
-- 🚀sobre mim: sou um jovem desenvolvedor de 14 anos, natural do Rio Grande Do Sul, Brasil.
-- com a meta  de ser um developer web na area do Front-End,
-- tenho cerca de 5 meses de estudos, com alguns projetos basicos na area, usando HTML e CSS.
-- sou aluno da instituição de ensino ( Rocketseat ).
+- 🌱Em fase de estudos
+- 🚀sobre mim: sou um jovem desenvolvedor de 15 anos, natural do Rio Grande Do Sul, Brasil.
+- com a meta  de ser um desenvolvedor web na area do Front-End.
+- sou aluno da instituição de ensino (Rocektseat ).
 
 ![mario coding](https://i.imgur.com/1ZvVkDc.gif)
 <br>
