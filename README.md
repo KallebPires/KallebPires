@@ -2,7 +2,7 @@
 
 - Desenvolvo para Front-End
 - 🌱Em fase de estudos
-- 🚀sobre mim: sou um jovem desenvolvedor de 15 anos, natural do Rio Grande Do Sul, Brasil.
+- 🚀sobre mim: sou um jovem desenvolvedor de 16 anos, natural do Rio Grande Do Sul, Brasil.
 - com a meta  de ser um desenvolvedor web na area do Front-End.
 - sou aluno da instituição de ensino (Rocektseat ).
 
