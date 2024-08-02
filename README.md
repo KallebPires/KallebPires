@@ -1,6 +1,6 @@
-### Opa, me chamo Kalleb Pires..
+### Opa 🙋🏽‍♂, me chamo Kalleb Pires..
 
-### Sobre Mim 🙋🏽‍♂👨🏽‍💻
+### Sobre Mim 👨🏽‍💻
 
 Sou um jovem desenvolvedor front-end de 16 anos, natural do Rio Grande do Sul, Brasil. Atualmente, estou em fase de estudos e aspirando a me tornar um desenvolvedor web full-stack. Sou aluno da Rocketseat, onde estou constantemente aprimorando minhas habilidades e conhecimentos.
 
