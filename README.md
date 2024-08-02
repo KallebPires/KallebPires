@@ -1,10 +1,17 @@
 ### Opa, me chamo Kalleb Pires..
 
-- Desenvolvo para Front-End
-- 🌱Em fase de estudos
-- 🚀sobre mim: sou um jovem desenvolvedor de 16 anos, natural do Rio Grande Do Sul, Brasil.
-- com a meta  de ser um desenvolvedor web FullSatck.
-- sou aluno da instituição de ensino  Rocketseat.
+### Sobre Mim
+
+Sou um jovem desenvolvedor front-end de 16 anos, natural do Rio Grande do Sul, Brasil. Atualmente, estou em fase de estudos e aspirando a me tornar um desenvolvedor web full-stack. Sou aluno da Rocketseat, onde estou constantemente aprimorando minhas habilidades e conhecimentos.
+
+### Objetivo
+
+Meu objetivo é dominar o desenvolvimento web full-stack e contribuir para projetos inovadores e desafiadores.
+
+### Formação
+
+- Aluno da Rocketseat
+
 
 ![mario coding](https://i.imgur.com/1ZvVkDc.gif)
 <br>
