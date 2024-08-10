@@ -38,4 +38,8 @@ Meu objetivo é dominar o desenvolvimento web full-stack e contribuir para proje
   <a href="https://www.linkedin.com/in/kalleb-pires-6ab644258" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
    <a href="https://www.instagram.com/_kallebpires/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 
+
+   [![GitHub Profile Views](https://img.shields.io/github/views/your-username/your-repo?style=flat-square)](https://github.com/your-username/your-repo)
+
+
     
