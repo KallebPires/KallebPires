@@ -30,7 +30,7 @@ Meu objetivo é dominar o desenvolvimento web full-stack e contribuir para proje
   <img align="center" alt="kalleb-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="kalleb-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   </div>
-
+ <br>
   <div align="left">
       <a href="https://www.linkedin.com/in/kalleb-pires-6ab644258/"   target="_blank" >
         <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
