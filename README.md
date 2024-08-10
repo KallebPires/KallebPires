@@ -30,20 +30,12 @@ Meu objetivo é dominar o desenvolvimento web full-stack e contribuir para proje
   <img align="center" alt="kalleb-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="kalleb-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   </div>
- <br>
-  <div align="left">
-      <a href="https://www.linkedin.com/in/kalleb-pires-6ab644258/"   target="_blank" >
-        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" height="30" alt="linkedin logo"  />
-      </a>
-    <a href="https://discord.gg/WTYZ3KV3zP"   target="_blank">
-        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="40" height="30" alt="discord logo"  />
-    </a>
-      <a href="mailto:kpiresdev@gmail.com"   target="_blank">
-        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="40" height="30" alt="gmail logo"  />
-      </a>
-     <a href="https://www.instagram.com/_kallebpires/"   target="_blank">
-        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg"   width="40" height="30" alt="instagram logo"  />
-     </a>
-    </div>
+
+<div> 
+  <a>
+ <a href="https://discord.gg/u2uUpQ5w" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+ <a href="https://discord.gg/WTYZ3KV3zP" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:kpiresdev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/kalleb-pires-6ab644258" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
     
