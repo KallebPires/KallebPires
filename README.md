@@ -21,6 +21,7 @@ Meu objetivo é dominar o desenvolvimento web full-stack e contribuir para proje
 -------
 <br>
 <br>
+
 ### 🤖 Linguagens e Tecnologias
 
 
@@ -74,7 +75,12 @@ Meu objetivo é dominar o desenvolvimento web full-stack e contribuir para proje
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
-
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 ![mario coding](https://i.imgur.com/1ZvVkDc.gif)
 <br>
