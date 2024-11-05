@@ -7,6 +7,12 @@ Sou um jovem desenvolvedor front-end de 16 anos, natural do Rio Grande do Sul, B
 ### Objetivo 🎯
 
 Meu objetivo é dominar o desenvolvimento web full-stack e contribuir para projetos inovadores e desafiadores.
+<br>
+<br>
+ <a href="https://discord.gg/WTYZ3KV3zP" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:kpiresdev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/kalleb-pires-6ab644258" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+   <a href="https://www.instagram.com/_kallebpires/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 
 ### Formação 👨🏾‍🎓
 
@@ -79,14 +85,7 @@ Meu objetivo é dominar o desenvolvimento web full-stack e contribuir para proje
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
 
-<div> 
-  <br>
- <a href="https://discord.gg/WTYZ3KV3zP" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:kpiresdev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/kalleb-pires-6ab644258" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-   <a href="https://www.instagram.com/_kallebpires/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-</br>
-  <br>
+
 <p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/KallebPires/count.svg" /></p>
 
  
