@@ -85,7 +85,9 @@ Meu objetivo é dominar o desenvolvimento web full-stack e contribuir para proje
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
 
-
+<br>
+<br>
+<br>
 <p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/KallebPires/count.svg" /></p>
 
  
