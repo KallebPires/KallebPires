@@ -82,11 +82,12 @@ Meu objetivo é dominar o desenvolvimento web full-stack e contribuir para proje
 ![mario coding](https://i.imgur.com/1ZvVkDc.gif)
 <br>
 <br>
+
 ### 📊 Estatísticas
 <div align="center">
   <a href="https://github.com/KallebPires">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KallebPires&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KallebPires&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KallebPires&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KallebPires&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 <br>
 
