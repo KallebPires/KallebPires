@@ -2,7 +2,7 @@
 
 ### Sobre Mim 👨🏽‍💻
 
-Sou um jovem desenvolvedor front-end de 16 anos, natural do Rio Grande do Sul, Brasil. Atualmente, estou em fase de estudos e aspirando a me tornar um desenvolvedor web full-stack. Sou aluno da Rocketseat, onde estou constantemente aprimorando minhas habilidades e conhecimentos.
+Sou um jovem desenvolvedor front-end de 17 anos, natural do Rio Grande do Sul, Brasil. Atualmente, estou em fase de estudos e aspirando a me tornar um desenvolvedor web full-stack. Sou aluno da Rocketseat, onde estou constantemente aprimorando minhas habilidades e conhecimentos.
 
 ### Objetivo 🎯
 
