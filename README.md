@@ -75,8 +75,7 @@ Continuar evoluindo no desenvolvimento de **Inteligência Artificial**, criando 
   
   ![Mario Coding](https://i.imgur.com/1ZvVkDc.gif)
   
-  *"Sempre programando com a energia do Mario!" 🍄*
-  
+
 </div>
 
 ---
