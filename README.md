@@ -2,19 +2,19 @@
 
 <div align="center">
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Bem-vindo+ao+meu+perfil!+:%29;Desenvolvedor+Front-End+em+evolução;Estudante+na+Rocketseat;Futuro+Full-Stack+Developer!)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Bem-vindo+ao+meu+perfil!+:%29;De+Web+Developer+para+AI+Engineer;Especialista+em+Visão+Computacional;Machine+Learning+com+Python!)](https://git.io/typing-svg)
   
 </div>
 
 ## 👨🏽‍💻 Sobre Mim
 
-Sou um jovem desenvolvedor **front-end** de 17 anos, natural do **Rio Grande do Sul, Brasil**. Atualmente estou focado nos estudos e aspirando me tornar um desenvolvedor web **full-stack**. 
+Sou um jovem desenvolvedor de 17 anos, natural do **Rio Grande do Sul, Brasil**. Estudei desenvolvimento web por 2 anos e agora estou migrando para a área de **Visão Computacional** e **Machine Learning** com Python.
 
-🚀 **Estudante da Rocketseat**, onde estou constantemente aprimorando minhas habilidades e conhecimentos no desenvolvimento web.
+🚀 **Ex-estudante da Rocketseat** no desenvolvimento web, atualmente focado em aprender tecnologias de IA e processamento de imagens.
 
 ## 🎯 Objetivo
 
-Dominar o desenvolvimento web **full-stack** e contribuir para projetos inovadores e desafiadores, sempre buscando aprender novas tecnologias e boas práticas de desenvolvimento.
+Dominar **Visão Computacional** e **Machine Learning**, aplicando essas tecnologias em projetos inovadores que possam resolver problemas reais através da inteligência artificial.
 
 ## 🛠️ Tecnologias & Ferramentas
 
@@ -24,6 +24,9 @@ Dominar o desenvolvimento web **full-stack** e contribuir para projetos inovador
   <img alt="CSS3" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg">
   <img alt="JavaScript" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
   <img alt="Python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
+  <img alt="OpenCV" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opencv/opencv-original.svg">
+  <img alt="TensorFlow" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg">
+  <img alt="NumPy" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg">
   <img alt="Git" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg">
   
 </div>
@@ -41,8 +44,9 @@ Dominar o desenvolvimento web **full-stack** e contribuir para projetos inovador
 
 ## 🎓 Formação
 
-- 🚀 **Aluno da Rocketseat** - Desenvolvimento Web Full-Stack
-- 📚 Sempre em busca de novos conhecimentos e desafios
+- 🚀 **Ex-aluno da Rocketseat** - Desenvolvimento Web (2 anos)
+- 🤖 **Estudando atualmente** - Visão Computacional e Machine Learning
+- 📚 Sempre em busca de novos conhecimentos em IA e tecnologias emergentes
 
 ## 📫 Vamos nos conectar?
 
