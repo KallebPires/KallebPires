@@ -24,9 +24,10 @@ Minha experiência atual engloba o desenvolvimento de **redes neurais**, sistema
 Desenvolver soluções inovadoras em **Inteligência Artificial**, aplicando técnicas avançadas de **Machine Learning** e **Deep Learning** para resolver problemas complexos do mundo real através de **redes neurais** e **visão computacional**.
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" alt="Python Snake" width="25" height="25" />
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" alt="Python Snake" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="60" height="60"/>
+<img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="35" height="35">
+<img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="35" height="35">
+<img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="35" height="35">
 </div>
 
 ## 🛠️ Stack Tecnológico
