@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Bem-vindo+ao+meu+perfil!+:%29;Desenvolvedor+de+Inteligência+Artificial;Apaixonado+por+tecnologias+de+IA;Construindo+o+futuro+com+código!)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Kalleb+Pires+-+AI+Developer;Machine+Learning+%26+Deep+Learning;Computer+Vision+%26+Neural+Networks;Python+Developer+in+Production)](https://git.io/typing-svg)
   
 </div>
 
