@@ -2,31 +2,40 @@
 
 <div align="center">
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Bem-vindo+ao+meu+perfil!+:%29;De+Web+Developer+para+AI+Engineer;Especialista+em+Visão+Computacional;Machine+Learning+com+Python!)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Bem-vindo+ao+meu+perfil!+:%29;ML/DL+Developer+Profissional;Especialista+em+Visão+Computacional;Desenvolvendo+IA+em+Produção!)](https://git.io/typing-svg)
   
 </div>
 
 ## 👨🏽‍💻 Sobre Mim
 
-Sou um jovem desenvolvedor de 17 anos, natural do **Rio Grande do Sul, Brasil**. Estudei desenvolvimento web por 2 anos e agora estou migrando para a área de **Visão Computacional** e **Machine Learning** com Python.
+Sou um desenvolvedor de **Machine Learning** e **Deep Learning** de 17 anos, natural do **Rio Grande do Sul, Brasil**. Com 2 anos de experiência em desenvolvimento web, migrei para a área de IA onde atualmente **trabalho profissionalmente** desenvolvendo soluções de **Visão Computacional**.
 
-🚀 **Ex-estudante da Rocketseat** no desenvolvimento web, atualmente focado em aprender tecnologias de IA e processamento de imagens.
+🤖 **Desenvolvedor ML/DL** com experiência em projetos corporativos de detecção de objetos, conversões 3D e processamento de imagens usando Python.
 
 ## 🎯 Objetivo
 
-Dominar **Visão Computacional** e **Machine Learning**, aplicando essas tecnologias em projetos inovadores que possam resolver problemas reais através da inteligência artificial.
+Continuar inovando em **Machine Learning** e **Deep Learning**, desenvolvendo soluções de IA cada vez mais sofisticadas para resolver problemas complexos no mundo real, especialmente em visão computacional e processamento de dados.
 
 ## 🛠️ Tecnologias & Ferramentas
 
+### 🤖 Machine Learning & Deep Learning
+<div align="center">
+  
+  <img alt="Python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
+  <img alt="TensorFlow" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg">
+  <img alt="PyTorch" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg">
+  <img alt="OpenCV" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opencv/opencv-original.svg">
+  <img alt="NumPy" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg">
+  <img alt="Pandas" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg">
+  
+</div>
+
+### 🌐 Desenvolvimento Web (Base)
 <div align="center">
   
   <img alt="HTML5" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
   <img alt="CSS3" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg">
   <img alt="JavaScript" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
-  <img alt="Python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
-  <img alt="OpenCV" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opencv/opencv-original.svg">
-  <img alt="TensorFlow" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg">
-  <img alt="NumPy" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg">
   <img alt="Git" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg">
   
 </div>
@@ -45,8 +54,9 @@ Dominar **Visão Computacional** e **Machine Learning**, aplicando essas tecnolo
 ## 🎓 Formação
 
 - 🚀 **Ex-aluno da Rocketseat** - Desenvolvimento Web (2 anos)
-- 🤖 **Estudando atualmente** - Visão Computacional e Machine Learning
-- 📚 Sempre em busca de novos conhecimentos em IA e tecnologias emergentes
+- 🤖 **Desenvolvedor ML/DL** - Trabalho atual em empresa com foco em IA
+- 👁️ **Projetos Corporativos** - Visão computacional, detecção de objetos, conversões 3D
+- 🐍 **Especialista Python** - Machine Learning e Deep Learning em produção
 
 ## 📫 Vamos nos conectar?
 
