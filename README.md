@@ -2,23 +2,23 @@
 
 <div align="center">
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Bem-vindo+ao+meu+perfil!+:%29;ML/DL+Developer+Profissional;Especialista+em+Visão+Computacional;Desenvolvendo+IA+em+Produção!)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Bem-vindo+ao+meu+perfil!+:%29;Desenvolvedor+de+Inteligência+Artificial;Apaixonado+por+tecnologias+de+IA;Construindo+o+futuro+com+código!)](https://git.io/typing-svg)
   
 </div>
 
 ## 👨🏽‍💻 Sobre Mim
 
-Sou um desenvolvedor de **Machine Learning** e **Deep Learning** de 17 anos, natural do **Rio Grande do Sul, Brasil**. Com 2 anos de experiência em desenvolvimento web, migrei para a área de IA onde atualmente **trabalho profissionalmente** desenvolvendo soluções de **Visão Computacional**.
+Sou um desenvolvedor de **Inteligência Artificial** de 17 anos, natural do **Rio Grande do Sul, Brasil**. Com 2 anos de experiência em desenvolvimento web, migrei para a área de IA onde atualmente **trabalho profissionalmente** desenvolvendo soluções de **Machine Learning** e **Deep Learning**.
 
-🤖 **Desenvolvedor ML/DL** com experiência em projetos corporativos de detecção de objetos, conversões 3D e processamento de imagens usando Python.
+🤖 **Desenvolvedor de IA** com experiência em projetos corporativos de visão computacional, detecção de objetos, conversões 3D e processamento de imagens usando Python.
 
 ## 🎯 Objetivo
 
-Continuar inovando em **Machine Learning** e **Deep Learning**, desenvolvendo soluções de IA cada vez mais sofisticadas para resolver problemas complexos no mundo real, especialmente em visão computacional e processamento de dados.
+Continuar evoluindo no desenvolvimento de **Inteligência Artificial**, criando soluções inovadoras que possam impactar positivamente o mundo através de tecnologias de ML, Deep Learning e visão computacional.
 
 ## 🛠️ Tecnologias & Ferramentas
 
-### 🤖 Machine Learning & Deep Learning
+### 🤖 Inteligência Artificial & Machine Learning
 <div align="center">
   
   <img alt="Python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
@@ -54,9 +54,9 @@ Continuar inovando em **Machine Learning** e **Deep Learning**, desenvolvendo so
 ## 🎓 Formação
 
 - 🚀 **Ex-aluno da Rocketseat** - Desenvolvimento Web (2 anos)
-- 🤖 **Desenvolvedor ML/DL** - Trabalho atual em empresa com foco em IA
+- 🤖 **Desenvolvedor de IA** - Trabalho atual em empresa com foco em Inteligência Artificial
 - 👁️ **Projetos Corporativos** - Visão computacional, detecção de objetos, conversões 3D
-- 🐍 **Especialista Python** - Machine Learning e Deep Learning em produção
+- 🐍 **Python Developer** - Machine Learning e Deep Learning em produção
 
 ## 📫 Vamos nos conectar?
 
