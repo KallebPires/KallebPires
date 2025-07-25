@@ -11,31 +11,9 @@
 
 ## 🧠 Sobre Mim
 
-```python
-class KallebPires:
-    def __init__(self):
-        self.name = "Kalleb Pires"
-        self.age = 17
-        self.location = "Rio Grande do Sul, Brasil"
-        self.current_role = "AI Developer"
-        
-        self.background = {
-            "web_development": "2 years",
-            "transition_to": "Artificial Intelligence",
-            "current_focus": ["Machine Learning", "Deep Learning", "Computer Vision"]
-        }
-        
-        self.work_experience = [
-            "Neural Networks development",
-            "Object Detection systems",
-            "3D Conversions",
-            "Computer Vision solutions",
-            "Production ML models"
-        ]
-    
-    def get_current_status(self):
-        return "Developing AI solutions in corporate environment"
-```
+Desenvolvedor de **Inteligência Artificial** de 17 anos, natural do Rio Grande do Sul, Brasil. Com uma sólida base de 2 anos em desenvolvimento web, fiz a transição para o fascinante mundo da IA, onde atualmente trabalho profissionalmente desenvolvendo soluções inovadoras.
+
+Minha experiência atual engloba o desenvolvimento de **redes neurais**, sistemas de **detecção de objetos**, **conversões 3D** e diversas soluções de **visão computacional**. Trabalho diretamente com modelos de **Machine Learning** e **Deep Learning** em ambiente de produção, sempre buscando aplicar essas tecnologias para resolver problemas complexos do mundo real.
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
@@ -46,7 +24,9 @@ class KallebPires:
 Desenvolver soluções inovadoras em **Inteligência Artificial**, aplicando técnicas avançadas de **Machine Learning** e **Deep Learning** para resolver problemas complexos do mundo real através de **redes neurais** e **visão computacional**.
 
 <div align="center">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" alt="Python Snake" width="25" height="25" />
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" alt="Python Snake" width="25" height="25" />
 </div>
 
 ## 🛠️ Stack Tecnológico
