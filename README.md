@@ -23,12 +23,7 @@ Minha experiência atual engloba o desenvolvimento de **redes neurais**, sistema
 
 Desenvolver soluções inovadoras em **Inteligência Artificial**, aplicando técnicas avançadas de **Machine Learning** e **Deep Learning** para resolver problemas complexos do mundo real através de **redes neurais** e **visão computacional**.
 
-<div align="center">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="60" height="60"/>
-<img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="35" height="35">
-<img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="35" height="35">
-<img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="35" height="35">
-</div>
+
 
 ## 🛠️ Stack Tecnológico
 
