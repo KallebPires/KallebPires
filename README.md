@@ -74,7 +74,6 @@ Desenvolver soluções inovadoras, aplicando técnicas  de **Machine Learning** 
 
 | 🚀 | **Rocketseat Alumni** | *Desenvolvimento Web (2 anos)* |
 |:---:|:---:|:---:|
-| 🤖 | **AI Developer** | *Desenvolvimento de IA em ambiente corporativo* |
 | 👁️ | **Computer Vision** | *Detecção de objetos, conversões 3D* |
 | 🐍 | **Python Developer** | *ML/DL models em produção* |
 
