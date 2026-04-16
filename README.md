@@ -11,7 +11,7 @@
 
 ## 🧠 Sobre Mim
 
-Desenvolvedor **Python** de 17 anos, natural do Rio Grande do Sul, Brasil. Com uma sólida base de 2 anos em desenvolvimento web, fiz a transição para o mundo de Python, onde atualmente trabalho profissionalmente desenvolvendo soluções inovadoras.
+Desenvolvedor **Python** de 18 anos, natural do Rio Grande do Sul, Brasil. Com uma sólida base de 2 anos em desenvolvimento web, fiz a transição para o mundo de Python, onde atualmente trabalho profissionalmente desenvolvendo soluções inovadoras.
 
 Minha experiência atual engloba o desenvolvimento de **redes neurais**, sistemas de **detecção de objetos**, **conversões 3D** e diversas soluções de **visão computacional**. Trabalho diretamente com modelos de **Machine Learning** e **Deep Learning** em ambiente de produção, sempre buscando aplicar essas tecnologias para resolver problemas complexos do mundo real.
 
